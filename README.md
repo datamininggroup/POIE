@@ -11,7 +11,7 @@ PFA Open Inference Engine Reference implementations of the PFA specification.
 The [Portable Format for Analytics (PFA)](http://dmg.org/pfa) is a specification for scoring engines: event-based processors that perform predictive or analytic calculations. It is a common language to help smooth the transition from statistical model development to large-scale and/or online production. For a model expressed as PFA to be run against data, an application is required.
 
 
-_Current version is_ **0.9.0**
+_Current version is_ **0.9.x**
 
 
 ## scala-poie 
