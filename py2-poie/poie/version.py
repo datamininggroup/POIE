@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-__version_info__ = (0,8,4)
+__version_info__ = (0,9,0)
 
 __version__ = ".".join(map(str, __version_info__))
 
